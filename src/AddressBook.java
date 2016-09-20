@@ -21,7 +21,7 @@ public class AddressBook {
 	public static void main(String[] args) {
 		System.out.println("Address Book");
 		
-		BuddyInfo b = new BuddyInfo();
+		BuddyInfo b = new BuddyInfo("Scott");
 		
 		AddressBook ab = new AddressBook();
 		
